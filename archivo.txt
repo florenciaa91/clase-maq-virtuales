@@ -1,0 +1,5 @@
+1 - Un lenguaje de programaciòn depende de un interprete o compilador exclusivo de ese SO. Ese interpretador, depende de la arquitectura y diseño de ese SO.
+2 - VBox soporta Windows, Linux, macOS, Solaris e IBM OS.
+3 - El hipervisor es el monitor de la maquina virtual que genera y gestiona las VMs. El tipo 1 se ejecutan directamente sobre el hardware, son nativos de los SO. En cambio, los de tipo 2, son hipervisores alojados, un ejemplo serìa el VBox en una pc. 
+4 - En realidad no deberìa afectar, ya que los otros SO estan aislados y son independientes unos con otros. 
+
